@@ -1,0 +1,6 @@
+[include]
+.*/src/.*
+
+[ignore]
+.*/dist/.*
+.*/node_modules/.*
