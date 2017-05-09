@@ -4,6 +4,6 @@ What you see is what you get.
 ### Quick Start
 
 ```
-npm install
+yarn install
 npm run build
 ```
